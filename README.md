@@ -40,5 +40,3 @@ NumPy, Pandas, Matplotlib
 
 Scikit-learn
 
-**Improvement**
-Run with Epoch = 50 with early stopping enabled
